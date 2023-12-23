@@ -12,10 +12,10 @@ A beautiful user-friendly web-based Tic Tac Toe Game developed by [Khamitkar Sai
 
 
 ## Description
-1. The challange can be completed by **Two opponents** one is "X" and other is "O".
-2. If the player is successful in attempting the symbol in a line then the player wins.
-3. If either of them not able to attempt the symbols in a line, then the match is **Draw**.
-4. After the completion of each match the players gets the results on the screen and can play again by clicking the **Play Again Button.**
+- The challenge can be completed by **Two opponent**s one is **"X"** and the other is **"O"**.
+- If the player **successfully attempts to place the symbol in a line**, then the player wins.
+- If either of them cannot attempt the symbols in a line, then the match is declared as Draw.
+- After the completion of each match, the players get the results on the screen and can play again by clicking the **Play Again Button.**
 
 ## Technologies Used
 - HTML
